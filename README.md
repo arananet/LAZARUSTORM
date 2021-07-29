@@ -1,7 +1,5 @@
 # LAZARUSTORM
-External CPU adapter for A500 specially designed for Pistorm.
-
-This board distribution is based on my LAZARUS BOARD and not based on someone's else design.
+External CPU adapter for A500, specially designed for Pistorm. This board distribution is based on my LAZARUS BOARD and not based on someone's else design.
 
 # Images
 
@@ -14,9 +12,13 @@ This is 4-layer board. Use your favorite pcb manufacturer to build this pcb usin
 Layers order:
 
 L1: copper_top_l1.gbr
+
 L2: copper_inner_l2.gbr
+
 L3: copper_inner_l3.gbr
+
 L4: copper_bottom_l4.gbr
+
 
 PCB Thickness: 1.6mm.
 
