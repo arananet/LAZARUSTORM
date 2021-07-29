@@ -13,9 +13,9 @@ Layers order:
 
 L1: copper_top_l1.gbr
 
-L2: copper_inner_l2.gbr
+L2 (VCC): copper_inner_l2.gbr
 
-L3: copper_inner_l3.gbr
+L3 (GND): copper_inner_l3.gbr
 
 L4: copper_bottom_l4.gbr
 
