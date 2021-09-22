@@ -5,6 +5,13 @@ External CPU adapter for A500, specially designed for Pistorm. This board distri
 
 <img src="https://github.com/arananet/LAZARUSTORM/blob/main/images/1.png?raw=true" width="700">
 
+# Jumper settings
+In order to use this adapter, you will need to set some jumpers. On the A500 side, there is a jumper called JP6 near the edge port that must be shorted, there are some revisions that will have this directly and others like the rev6a that must be shorted. Check the next image as a guide.
+
+<img src="https://github.com/arananet/LAZARUSTORM/blob/main/images/rev6ajp6.png?raw=true" width="300">
+
+Stock jumper settings tested with two 68000 cpu's are: VPAJP 1-2 and BRJP open.
+
 # PCB information
 
 This is 4-layer board. Use your favorite pcb manufacturer to build this pcb using the gerbers available on the gerbers folder. Recommended PCB manufacturers: ALLPCB, JLCPCB and PCBWAY.
@@ -40,6 +47,7 @@ In order to build your adapter, check the bill of material:
 https://es.aliexpress.com/item/32854325182.html?spm=a2g0o.detail.1000060.2.350fada9Xv7nRh&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=9b1afe58-2a7a-4338-a981-ace8b2a98808&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:9b1afe58-2a7a-4338-a981-ace8b2a98808,tpp_buckets:668%230%23131923%230_668%230%23131923%230_668%23888%233325%2314_668%23888%233325%2314_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%231000022185%231000066059%230_668%233468%2315613%23444_668%232846%238115%232000_668%235811%2327180%2341_668%232717%237567%23940_668%233164%239976%2356_668%233468%2315613%23444
 
 # Update
+22-09-2021 - Update info about jumper settings.
 29-07-2021 - Initial release.
 
 # Note
