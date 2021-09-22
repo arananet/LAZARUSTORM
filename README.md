@@ -10,7 +10,7 @@ In order to use this adapter, you will need to set some jumpers. On the A500 sid
 
 <img src="https://github.com/arananet/LAZARUSTORM/blob/main/images/rev6ajp6.png?raw=true" width="300">
 
-Stock jumper settings tested with two 68000 cpu's are: VPAJP 1-2 and BRJP open.
+Stock jumper settings for the LAZARUSTORM adapter, tested with two 68000 cpu's are: VPAJP 1-2 and BRJP open.
 
 # PCB information
 
