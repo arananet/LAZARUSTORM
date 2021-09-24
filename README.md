@@ -1,6 +1,8 @@
 # LAZARUSTORM
 External CPU adapter for A500, specially designed for Pistorm, it will work with others accelerators too, BUT (a big but), some accelerators are not designed with bus takeover function so they might not work with the internal cpu plugged in. This board distribution is based on my LAZARUS BOARD and not based on someone's else design.
 
+Thanks to Raymond Stewart for helping me out with the testing.
+
 # Images
 
 <img src="https://github.com/arananet/LAZARUSTORM/blob/main/images/1.png?raw=true" width="700">
