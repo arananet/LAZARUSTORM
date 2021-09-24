@@ -10,7 +10,7 @@ In order to use this adapter, you will need to set some jumpers. On the A500 sid
 
 <img src="https://github.com/arananet/LAZARUSTORM/blob/main/images/rev6ajp6.png?raw=true" width="300">
 
-Stock jumper settings for the LAZARUSTORM adapter, tested with two 68000 cpu's are: VPAJP 1-2 and BRJP open.
+Stock jumper settings for the LAZARUSTORM adapter, tested with two 68000 cpu's are: VPAJP 2-3 and BRJP open.
 
 # PCB information
 
@@ -37,7 +37,7 @@ In order to build your adapter, check the bill of material:
 | ------------- | ----------------------- | ------------------------------ |          
 | C1       		| 100NF SMD CAPACITOR     | 0805                       |
 | C2       		| 22UF SMD CAPACITOR     | 0805                       |
-| R1     		| 220OHM RESISTOR          | 0805                   |
+| R1     		| 0OHM RESISTOR          | 0805                   |
 | R2      		| 1K RESISTOR            | 0805                           |
 
 1 PCS of 86-PIN (2X43) 2.54 EDGE CONNECTOR (find them on aliexpress or ebay)
